@@ -1,4 +1,4 @@
-# Re-ComBind: An Improvement to the Statistical Framework to Predict the Protein-Ligand Structural Complexes
+# Re-ComBind: An Improvement on the Statistical Framework-based Hybrid Scoring Function to Predict the Protein-Ligand Structural Complexes
 
 Author: OON Yu Yang.
 

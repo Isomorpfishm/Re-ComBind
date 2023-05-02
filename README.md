@@ -7,7 +7,7 @@ Author: OON Yu Yang.
 A Final-year Project submitted to Nanyang Technological University, Singapore as partial requirement for the fulfillment of Bachelor of Science (Hons.) in Physics/Applied Physics with a Second Major in Mathematical Sciences.
 
 ### Introduction
-<img src="/images/recombind_intro.png" alt="Schematic Diagram of Re-ComBind" style="height: 300px; width:300px;"/>
+<img src="/images/recombind_intro.png" alt="Schematic Diagram of Re-ComBind" style="height: 768px; width:432px;"/>
 
 ### Notes
 Re-ComBind is only a scoring term that is constructed on top of Quick Vina 2 and the prediction accurcies may vary. The results should always be compared to the original scoring term. If the baseline docking engine (e.g., Quick Vina 2) fails to generate the right poses, it is not possible for Re-ComBind to select the near-native pose.
